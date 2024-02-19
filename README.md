@@ -1,4 +1,4 @@
-# Simple Image Classifier for Vehicle Classification
+# Simple Image Classifier for Vehicle 
 
 ## Project Overview
 
